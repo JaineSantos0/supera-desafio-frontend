@@ -1,0 +1,57 @@
+.divisor-coluna {
+    border-right: 2px solid black !important;
+}
+
+.border-left-top {
+    border-left: 2px solid black !important;
+    border-top: 2px solid black !important;
+}
+
+.largura-tabela {
+    width: 70% !important;
+}
+
+.border-bottom {
+    border-bottom: 2px solid black !important;
+}
+
+.border-total {
+    border: 1px solid black !important;
+}
+
+.largura-input {
+    width: 250px !important;
+}
+
+.icones-pagina {
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 10px !important; 
+}
+
+.icones-pagina svg {
+    margin: 0 5px !important;
+    cursor: pointer !important;
+}
+
+.margem-right {
+    margin-right: 5% !important;
+}
+
+.alinhamento {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.caixa {
+   display: flex;
+   gap: 5vw !important;
+}
+
+.caixa-padding {
+    padding: 5% 10%;
+}
+
+.button-padding {
+    padding: 5% 0;
+}
